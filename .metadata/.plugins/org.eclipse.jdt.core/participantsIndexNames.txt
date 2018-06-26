@@ -1,0 +1,9 @@
+INDEX VERSION 1.130
+/Users/harveywang/Spring/eclipse-workplace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1256457432.index
+/spring-security-demo-01-base-app/src/main/java
+/Users/harveywang/Spring/eclipse-workplace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3750454120.index
+/web-customer-tracker/src
+/Users/harveywang/Spring/eclipse-workplace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/39016037.index
+/web-customer-tracker/src
+/Users/harveywang/Spring/eclipse-workplace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3246518651.index
+/spring-mvc-demo/src
