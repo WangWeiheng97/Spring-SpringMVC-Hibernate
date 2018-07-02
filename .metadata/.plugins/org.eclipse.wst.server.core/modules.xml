@@ -3,5 +3,6 @@
   <module moduleId="org.eclipse.jst.jee.server:spring-security-demo-01-base-app" serverId="Tomcat v8.5 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:spring-security-demo" serverId="Tomcat v8.5 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:spring-mvc-demo" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:spring-crm-rest-demo" serverId="Tomcat v8.5 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:web-customer-tracker" serverId="Tomcat v8.5 Server at localhost"/>
 </modules>
