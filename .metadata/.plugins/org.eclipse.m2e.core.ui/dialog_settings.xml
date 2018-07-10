@@ -33,6 +33,11 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/harveywang/Spring/eclipse-workplace/jokesapp"/>
+			<item value="/Users/harveywang/Spring/eclipse-workplace/harvey.com"/>
+			<item value="/Users/harveywang/Spring/eclipse-workplace/demo"/>
+			<item value="/Users/harveywang/Spring/eclipse-workplace/spring-crm-rest-demo"/>
+			<item value="/Users/harveywang/Spring/eclipse-workplace/jackson-databinding-json-demo"/>
 			<item value="/Users/harveywang/Spring/eclipse-workplace/spring-security-demo-01-base-app"/>
 		</list>
 		<list key="projectNameTemplate">

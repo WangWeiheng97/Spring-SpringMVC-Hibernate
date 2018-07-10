@@ -1428,3 +1428,156 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-02 19:10:44.874
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-07-03 17:31:13.236
+!MESSAGE Server Tomcat v8.5 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-07-03 17:32:48.049
+!MESSAGE Server Tomcat v8.5 Server at localhost failed to start.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-03 17:33:41.556
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-03 17:33:41.558
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-07-03 17:34:13.016
+!MESSAGE Server Tomcat v8.5 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-07-03 17:34:47.545
+!MESSAGE Server Tomcat v8.5 Server at localhost failed to start.
+!SESSION 2018-07-03 17:35:25.412 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/harveywang/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/harveywang/.eclipse_keyring
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-03 17:35:42.827
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-03 17:35:42.835
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-03 17:35:43.342
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-03 17:35:43.351
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-03 17:35:44.269
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-03 17:35:44.271
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-07-03 17:35:56.235
+!MESSAGE Server Tomcat v8.5 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-07-03 17:36:51.417
+!MESSAGE Server Tomcat v8.5 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-07-03 17:38:40.267
+!MESSAGE Server Tomcat v8.5 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-07-04 18:10:09.993
+!MESSAGE Server Tomcat v8.5 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-07-04 18:13:54.382
+!MESSAGE Server Tomcat v8.5 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-07-04 18:14:49.352
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+!SESSION 2018-07-05 10:00:39.856 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/harveywang/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/harveywang/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-05 10:00:46.708
+!MESSAGE System property http.proxyHost has been set to localhost by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-05 10:00:46.709
+!MESSAGE System property http.proxyPort has been set to 49886 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-05 10:00:46.710
+!MESSAGE System property https.proxyHost has been set to localhost by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-05 10:00:46.710
+!MESSAGE System property https.proxyPort has been set to 49886 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 10:00:57.390
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 10:00:57.398
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 10:00:57.976
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 10:00:57.986
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 10:00:58.827
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 10:00:58.830
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-05 10:14:49.263
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-05 10:14:49.263
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-05 10:19:49.120
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-05 10:19:49.121
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-07-05 11:01:43.909 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/harveywang/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/harveywang/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-05 11:02:06.268
+!MESSAGE System property http.proxyHost has been set to localhost by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-05 11:02:06.269
+!MESSAGE System property http.proxyPort has been set to 49886 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-05 11:02:06.270
+!MESSAGE System property https.proxyHost has been set to localhost by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-05 11:02:06.270
+!MESSAGE System property https.proxyPort has been set to 49886 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 11:02:14.190
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 11:02:14.196
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 11:02:16.180
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 11:02:16.192
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 11:02:16.651
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-05 11:02:16.653
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-09 09:33:09.632
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-09 09:33:09.633
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
