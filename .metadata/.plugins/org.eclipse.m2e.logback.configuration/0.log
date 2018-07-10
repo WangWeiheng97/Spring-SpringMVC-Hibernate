@@ -1674,3 +1674,8 @@
 2018-07-05 11:02:16,651 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2018-07-05 11:02:16,653 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-07-05 11:02:16,653 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harveywang/Spring/eclipse-workplace/spring-security-demo/src/test/resources
+2018-07-10 17:31:24,682 [Worker-1379] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-10 17:31:24,693 [Worker-1379] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-10 17:31:24,695 [Worker-1379] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-10 17:31:24,698 [Worker-1379] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-10 17:31:24,699 [Worker-1379] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/harveywang/Spring/eclipse-workplace/jokesapp/src/test/resources
