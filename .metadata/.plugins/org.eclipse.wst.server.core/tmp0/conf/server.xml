@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="/Users/harveywang/Spring/eclipse-workplace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/Users/harveywang/Spring/eclipse-workplace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/spring-crm-rest-demo" path="/spring-crm-rest" reloadable="true" source="org.eclipse.jst.jee.server:spring-crm-rest-demo"/><Context docBase="/Users/harveywang/Spring/eclipse-workplace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/spring-security-demo" path="/spring-security-demo" reloadable="true" source="org.eclipse.jst.jee.server:spring-security-demo"/><Context docBase="/Users/harveywang/Spring/eclipse-workplace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/web-customer-tracker" path="/web-customer-tracker" reloadable="true" source="org.eclipse.jst.jee.server:web-customer-tracker"/></Host>
+      <Context docBase="/Users/harveywang/Spring/eclipse-workplace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/Users/harveywang/Spring/eclipse-workplace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/touring-app" path="/touring-web" reloadable="true" source="org.eclipse.jst.jee.server:touring-app"/></Host>
     </Engine>
   </Service>
 </Server>

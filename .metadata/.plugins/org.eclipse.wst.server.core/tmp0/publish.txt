@@ -1,6 +1,2 @@
 #Tomcat publish data
-#Wed Jul 04 18:19:55 CST 2018
-org.eclipse.jst.jee.server\:/binary\:/Users/harveywang/Spring/eclipse-workplace/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.0.6.RELEASE.jar=WEB-INF/lib/spring-web-5.0.6.RELEASE.jar
-org.eclipse.jst.jee.server\:/binary\:/Users/harveywang/.m2/repository/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
-org.eclipse.jst.jee.server\:/binary\:/Users/harveywang/.m2/repository/org/springframework/spring-web/5.0.6.RELEASE/spring-web-5.0.6.RELEASE.jar=WEB-INF/lib/spring-web-5.0.6.RELEASE.jar
-org.eclipse.jst.jee.server\:/binary\:/Users/harveywang/Spring/eclipse-workplace/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.0.6.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.6.RELEASE-sources.jar
+#Sun Jul 15 22:34:11 CST 2018
